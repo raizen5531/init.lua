@@ -10,7 +10,7 @@ If you want to try this configuration for yourself.
 
 Clone into the github repository
 
-```git clone https://github.com/aarttman/neovim-config.git $HOME/.config/nvim```
+```git clone https://github.com/raizen5531/init.lua.git $HOME/.config/nvim```
 
 Remove the .git folder
 
